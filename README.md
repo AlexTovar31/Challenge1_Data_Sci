@@ -35,5 +35,7 @@ Después del análisis, escriba un texto explicando a qué tienda debería vende
 
 Python 3.10+
 Pandas – para manipulación y análisis de datos.
+
 Matplotlib – para visualización de datos.
+
 Google Colab – entorno usado para desarrollo y visualización interactiva.
