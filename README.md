@@ -1,4 +1,4 @@
-🛒 Análisis de Eficiencia de Tiendas
+**🛒 Análisis de Eficiencia de Tiendas**
 
 Este proyecto tiene como objetivo analizar el rendimiento de cuatro tiendas utilizando métricas clave como ingresos, ventas por categoría, calificaciones, productos más y menos vendidos, y costos promedio de envío. El propósito final es identificar cuál de las tiendas es la menos eficiente y por qué.
 
@@ -31,9 +31,10 @@ Enviar una recomendación:
 
 Después del análisis, escriba un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
 
-🚀 Tecnologías Utilizadas
+**🚀 Tecnologías Utilizadas**
 
 Python 3.10+
+
 Pandas – para manipulación y análisis de datos.
 
 Matplotlib – para visualización de datos.
